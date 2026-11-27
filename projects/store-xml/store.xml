@@ -1,0 +1,17 @@
+<products>
+	<product id="101">
+		<name>keyboard</name>
+		<price>1000000</price>
+		<count>12</count>
+	</product>
+	<product id="102">
+		<name>mouse</name>
+		<price>800000</price>
+		<count>20</count>
+	</product>
+	<product id="103">
+		<name>monitor</name>
+		<price>5000000</price>
+		<count>4</count>
+	</product>
+</products>
